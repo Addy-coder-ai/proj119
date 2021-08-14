@@ -1,0 +1,65 @@
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(129, 57, 224);
+    background-color: brown;
+    height: 80px;
+}
+
+.mdlTrain{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 5px;
+    border-color: rgb(151, 1, 238);
+    color: rgb(10, 0, 155);
+    box-shadow: 8px 8px 8px blueviolet;
+    font-size: 30px;
+}
+
+.NOT{
+    font-size: 16px;
+    color: rgb(83, 0, 0);
+    font-weight: bold;
+}
+
+h4{
+    font-size: 23px;
+    background-color: rgb(173, 86, 4);
+    width: 70%;
+}
+
+#footer{
+ position: fixed;
+ bottom: 0;
+ width: 100%;
+ background-color: grey;
+ color: black;
+ line-height: 3;
+ text-align: center;
+}
+
+.RO,.ROA{
+font-size: 20px;
+background-color: rgb(0, 255, 255);
+color: rgb(60, 0, 255);
+box-shadow: 8px 8px 8px green;
+padding: 5px;
+width: 50%;
+}
+
+#ROSpan,#ROASpan{
+font-size: 20px;
+background-color: rgb(255, 0, 0);
+color: rgb(251, 255, 0);
+padding: 5px;
+font-weight: bolder;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px grey;
+    margin-top: 200px;
+}
